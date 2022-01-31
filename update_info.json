@@ -1,0 +1,11 @@
+{
+    "update_file": [
+      "plugins",
+      "models",
+      "services",
+      "utils",
+      "basic_plugins"
+    ],
+    "add_file": [],
+    "delete_file": []
+}
